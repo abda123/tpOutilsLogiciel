@@ -1,2 +1,3 @@
 ceci est un fichier
 ceci est une deuxième ligne 
+ceci est le rajout d'un ligne sur la branche B1
